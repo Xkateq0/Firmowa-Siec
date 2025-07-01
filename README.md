@@ -13,7 +13,7 @@ Kompletny projekt sieci LAN odwzorowujący strukturę małej firmy. W sieci zast
 - ACL – ograniczenie komunikacji między działami
 
 ## 🖼️ Topologia
-![Topologia](topologia.png)
+![Topologia](topologia.PNG)
 
 ## 🧪 Testy
 - ping między VLAN-ami (blokada HR–IT)
