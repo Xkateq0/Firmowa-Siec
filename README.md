@@ -23,7 +23,7 @@ Kompletny projekt sieci LAN odwzorowujący strukturę małej firmy. W sieci zast
 - dostęp do serwera DNS
 ![dns](testy/dns.PNG)
 - dostęp do strony internetowej
-![http/https](testy/http)
+![http/https](testy/http.PNG)
 
 ## 📂 Pliki
 - `siec.pkt` – plik Cisco Packet Tracer
