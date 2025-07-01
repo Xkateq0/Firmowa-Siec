@@ -17,13 +17,13 @@ Kompletny projekt sieci LAN odwzorowujący strukturę małej firmy. W sieci zast
 
 ## 🧪 Testy
 - ping między VLAN-ami
-(testy/ping.PNG)
+![ping](testy/ping.PNG)
 - przydzielone adresy przez DHCP
-(testy/dhcp.PNG)
+![dhcp](testy/dhcp.PNG)
 - dostęp do serwera DNS
-(testy/dns.PNG)
+![dns](testy/dns.PNG)
 - dostęp do strony internetowej
-(testy/http)
+![http/https](testy/http)
 
 ## 📂 Pliki
 - `siec.pkt` – plik Cisco Packet Tracer
