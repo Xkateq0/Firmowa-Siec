@@ -26,7 +26,7 @@ Kompletny projekt sieci LAN odwzorowujący strukturę małej firmy. W sieci zast
 ![http/https](testy/http.PNG)
 
 ## 📂 Pliki
-- `siec.pkt` – plik Cisco Packet Tracer
+- `FirmowaSiec.pkt` – plik Cisco Packet Tracer
 - `README.md` – ten plik
 
 
