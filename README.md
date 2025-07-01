@@ -16,9 +16,14 @@ Kompletny projekt sieci LAN odwzorowujący strukturę małej firmy. W sieci zast
 ![Topologia](topologia.PNG)
 
 ## 🧪 Testy
-- ping między VLAN-ami (blokada HR–IT)
+- ping między VLAN-ami
+(testy/ping.PNG)
+- przydzielone adresy przez DHCP
+(testy/dhcp.PNG)
 - dostęp do serwera DNS
+(testy/dns.PNG)
 - dostęp do strony internetowej
+(testy/http)
 
 ## 📂 Pliki
 - `siec.pkt` – plik Cisco Packet Tracer
